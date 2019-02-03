@@ -1,0 +1,8 @@
+{
+  "name": "sls-appsync-test",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:granmoe/sls-appsync-test.git",
+  "author": "Matt Granmoe <mattgranmoe@gmail.com>",
+  "license": "MIT"
+}
